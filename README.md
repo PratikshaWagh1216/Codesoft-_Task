@@ -1,2 +1,2 @@
-# Codesoft-_Task
+# Codsoft-_Task
 Codesoft Internship Task
